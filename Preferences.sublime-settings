@@ -64,9 +64,9 @@
 	"line_padding_top": 7,
 	"margin": 0,
 	"sidebar_large": true,
-	
-	"ignored_packages":
+	"rulers":
 	[
-		"Vintage",
+		80
 	],
+	"color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
 }
