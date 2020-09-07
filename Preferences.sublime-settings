@@ -69,4 +69,8 @@
 		80
 	],
 	"color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
 }
