@@ -1,7 +1,7 @@
 // Settings in here override those in "Default/Preferences.sublime-settings",
 // and are overridden in turn by syntax-specific settings.
 {
-	"font_face": "Hasklig-Medium",
+	"font_face": "Hasklig",
 	"font_size": 15,
 	"font_options":
 	[
@@ -68,7 +68,7 @@
 	[
 		80
 	],
-	"color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
+	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
 	"ignored_packages":
 	[
 		"Vintage",
