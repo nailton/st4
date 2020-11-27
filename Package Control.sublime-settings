@@ -6,13 +6,21 @@
 	"installed_packages":
 	[
 		"A File Icon",
-		"Dracula Color Scheme",
+		"ApplySyntax",
+		"Babel",
+		"BracketHighlighter",
+		"EditorConfig",
 		"Emmet",
 		"Git",
 		"Gitignore",
+		"HTML-CSS-JS Prettify",
 		"JavaScript Completions",
-		"Oceanic Next Color Scheme",
+		"MarkdownPreview",
 		"Package Control",
+		"Random Everything",
+		"Sass",
+		"SideBarEnhancements",
+		"Slick",
 		"Vuejs Snippets",
 	],
 }
